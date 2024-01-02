@@ -45,3 +45,9 @@ if __name__ == "__main__":
 ## Contributing
 
 Since this is a repository for a tutorial, the code should remain the same as the code that was shown in the tutorial. Any pull requests that don't address security flaws or fixes for language updates will be automatically closed. Style changes, adding libraries, etc are not valid changes for submitting a pull request.
+
+## Possibili errori
+
+ImportError: cannot import name 'safe_str_cmp' from 'werkzeug.security'
+
+pip install --upgrade flask_login

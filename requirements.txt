@@ -1,11 +1,11 @@
 bcrypt==3.2.2
 blinker==1.4
-certifi==2022.5.18.1
+certifi==2023.11.17
 cffi==1.15.0
 click==8.0.4
 dnspython==2.4.2
 email-validator==2.1.0.post1
-Flask==2.1.2
+Flask==2.2.5
 Flask-Bcrypt==1.0.1
 Flask-Login==0.5.0
 Flask-Mail==0.9.1
@@ -22,5 +22,5 @@ pycparser==2.21
 python_dotenv==1.0.0
 six==1.16.0
 SQLAlchemy==1.4.36
-Werkzeug==2.0.3
+Werkzeug==2.3.8
 WTForms==3.0.0
